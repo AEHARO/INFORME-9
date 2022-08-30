@@ -3,6 +3,7 @@
 
 1. OBJETIVOS
 
+Analizar los capítulos 17 y 18 del libro de principios de circuitos eléctricos de Floyd, mediante una lectura comprensiva de los diversos temas, para obtener conocimiento que me ayude a realizar los ejercicios planteados.
 
 ◆ Analizar la operación de filtros pasabajas RC y RL 
 
@@ -55,13 +56,14 @@
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
+https://www.youtube.com/watch?v=oD4ZDpVuEUU&t=2s
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+•	En los distintos casos cuando se habla de filtros pasaronjas, pasaaltas, pasaronnda y rechazabanda, dispuestros en circuitos R, L y C se logra obtener diversos datos mediante formulas matematicas, logrando asi mediante un diagrama de bonde observar como la frecuencia crece, y asi analizar los desibeles con respecto a la frecuencia.
+
+
+•	Mediante la resolución de los ejercicios presentes se llegó a la conclusión de que los filtros de pasabajas permiten que fluya las señales de baja frecuencia a diferencia de los filtros de pasaaltas que permiten que fluyan las señales de alta frecuencia.
 
 6. BIBLIOGRAFÍA
 
