@@ -34,6 +34,11 @@ Analizar los capítulos 17 y 18 del libro de principios de circuitos eléctricos
 ![image](https://user-images.githubusercontent.com/105679480/187343095-f0992fb5-244d-4677-bebb-af5b3a04c16d.png)
 ![image](https://user-images.githubusercontent.com/105679480/187343127-aaa943d2-fd4b-4aae-a8c3-695469e2b795.png)
 ![image](https://user-images.githubusercontent.com/105679480/187343145-b0a10666-a95f-48b0-b143-9c786d76b52e.png)
+
+
+3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
+
+
 ![image](https://user-images.githubusercontent.com/105679480/187346946-10917612-68bd-4cea-801e-020ce41a67ac.png)
 ![image](https://user-images.githubusercontent.com/105679480/187346971-fd0d703a-9691-4b92-b460-5abeee3bd348.png)
 ![image](https://user-images.githubusercontent.com/105679480/187346994-e4211c29-03a1-4a68-b447-237ba8aae7e2.png)
@@ -44,11 +49,6 @@ Analizar los capítulos 17 y 18 del libro de principios de circuitos eléctricos
 ![image](https://user-images.githubusercontent.com/105679480/187347166-30762f92-551f-4028-a771-baed8ced1bd6.png)
 ![image](https://user-images.githubusercontent.com/105679480/187347186-55c95392-903f-49a0-b02a-557d134b2c62.png)
 ![image](https://user-images.githubusercontent.com/105679480/187347240-0709fb97-dd2e-48bf-a63d-86a1f07dbc43.png)
-
-
-
-3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
 ![image](https://user-images.githubusercontent.com/105679480/187343206-0abb1fa9-d3fb-4068-836a-f11b6d304c3b.png)
 ![image](https://user-images.githubusercontent.com/105679480/187343270-df0e57fa-6bb3-40f7-81e0-c9e51fe93352.png)
 ![image](https://user-images.githubusercontent.com/105679480/187343313-9a9c1240-fbd0-4696-bd5d-d5b27cef556b.png)
