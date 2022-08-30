@@ -65,8 +65,9 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+Filtro pasa bajas. (s. f.). Intrull. Recuperado 25 de agosto de 2022, de https://lc.fie.umich.mx/%7Ejfelix/InstruII/PB/PB.htm
 
+Berríos, J. C. (2021, 16 septiembre). Análisis de circuitos RLC (serie y paralelo). TELCOM: Aprenda ingeniería eléctrica y electrónica (gratis). Recuperado 25 de agosto de 2022, de https://telcom.jaol.net/circuito-rlc/
 RUBRICA
 
 ![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
